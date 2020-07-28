@@ -1,0 +1,8 @@
+#mainMenu {
+    height: 150px;
+}
+.client {
+    margin-bottom: 25px;
+    margin-top: 25px;
+    border: 1px solid black;
+}
